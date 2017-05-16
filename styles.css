@@ -1,0 +1,15 @@
+.jumbotron {
+background-color: beige;
+}
+.container {
+  background-color: black;
+}
+.p {
+background-color: white
+}
+.h1 {
+  color:white;
+}
+img{
+  float: right;
+}
